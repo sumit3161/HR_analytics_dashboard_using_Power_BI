@@ -1,7 +1,7 @@
 # HR_analytics_dashboard_using_Power_BI
 Hello everyone!
 
-I have created my first interactive Dashboard on HR Analytics using Power BI with the guidance of an engaging YouTube tutorial by Sumit Kumar.
+I have created my first interactive Dashboard on HR Analytics using Power BI.
 
 Objective: - By using data-driven insights, help an organization by enhancing staff performance, increasing employee retention, and lowering attrition.
 
